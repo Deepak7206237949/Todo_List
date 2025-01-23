@@ -50,22 +50,5 @@ and after that start the dev server.
 npm start
 ```
 
-## FAQ
-
-### Q: How can i get started?
-
-You can get started by following the [YouTube tutorial](https://youtu.be/W0Uf_xu350k) of this project. Here is the full tutorial video link: [coming soon].
-
-### Q: What i need to start the project?
-
-Just open your favorite code editor and follow along with the [YouTube tutorial](https://youtu.be/W0Uf_xu350k).
-
-### Q: What are the prerequisites?
-
-basics of html, css, javascript and some basic knowledge of react is enough to start this project. Rest you will learn in the tutorial.
-
-### Q: Who the project is for?
-
-The project is for the people who wanna get more skilled in `ReactJs`.
 
 ---
