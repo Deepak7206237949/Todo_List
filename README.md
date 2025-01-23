@@ -4,7 +4,7 @@
 
 A complete todo application with all features.
 
-**live demo: [](https://wc-react-todo-app.netlify.app/)**
+**live demo: [https://todoassignment32.netlify.app/](https://wc-react-todo-app.netlify.app/)**
 
 ---
 
@@ -36,7 +36,8 @@ You can find all the starter files in `starter-files` branch. You can go to the 
 
 ## Getting Started
 
-The recommended way to get started with the project is to follow the [YouTube tutorial](https://youtu.be/W0Uf_xu350k). You will find all the step-by-step guides. Or you can start the project on your own by following the guide below.
+### Deployed Site
+https://todoassignment32.netlify.app/
 
 After getting the starter files, you need to go the file directory and run
 
